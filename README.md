@@ -1,6 +1,10 @@
+![The Architecture of Belief — visual overview](assets/architecture-of-belief-cover.jpg)
+
 # The Architecture of Belief
 
 **Comparative study of religious belief systems, spiritual cosmology, theology, demonology, consciousness, death, and the afterlife.**
+
+This visual cover is an orientation aid: it helps people enter the conversation through a shared image. It is not a claim that different traditions teach the same thing.
 
 ## Purpose
 
@@ -47,6 +51,7 @@ The goal is not to declare a winner among religions, flatten different tradition
 - 08_SCIENCE/ — empirical claims, methods, evidence, and limits.
 - 09_COMPARATIVE_ANALYSIS/ — structured comparisons that preserve differences.
 - SOURCES/ — bibliography, source evaluation, and provenance.
+- assets/architecture-of-belief-cover.jpg — visual cover and conversation entry point.
 
 Directories will receive files as research is conducted; an empty directory is not evidence of completed research.
 
